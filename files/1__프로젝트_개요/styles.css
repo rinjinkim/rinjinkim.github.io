@@ -144,8 +144,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:20px;
   color:#434343;
@@ -157,8 +157,8 @@
   top:48px;
   width:1162px;
   height:23px;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:20px;
   color:#434343;
@@ -213,8 +213,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:14px;
 }
@@ -225,8 +225,8 @@
   top:112px;
   width:176px;
   height:16px;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:14px;
 }
@@ -408,8 +408,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:14px;
 }
@@ -420,8 +420,8 @@
   top:232px;
   width:176px;
   height:16px;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:14px;
 }
@@ -736,10 +736,9 @@
 #u25_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u26_img {
@@ -767,10 +766,9 @@
 #u26_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u27_img {
@@ -798,10 +796,9 @@
 #u27_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u28_img {
@@ -1235,10 +1232,9 @@
 #u42_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:630px;
   word-wrap:break-word;
 }
 #u43_img {
@@ -2118,10 +2114,9 @@
 #u72_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u73_img {
@@ -2149,10 +2144,9 @@
 #u73_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u74_img {
@@ -2180,10 +2174,9 @@
 #u74_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:180px;
   word-wrap:break-word;
 }
 #u75_img {
@@ -2211,10 +2204,9 @@
 #u75_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:180px;
   word-wrap:break-word;
 }
 #u76_img {
@@ -2242,10 +2234,9 @@
 #u76_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:180px;
   word-wrap:break-word;
 }
 #u77_img {
@@ -2273,10 +2264,9 @@
 #u77_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:330px;
   word-wrap:break-word;
 }
 #u78_img {
@@ -2304,10 +2294,9 @@
 #u78_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u79_img {
@@ -2335,10 +2324,9 @@
 #u79_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:80px;
   word-wrap:break-word;
 }
 #u80_img {
@@ -2366,10 +2354,9 @@
 #u80_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:180px;
   word-wrap:break-word;
 }
 #u81_img {
@@ -2397,10 +2384,9 @@
 #u81_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:180px;
   word-wrap:break-word;
 }
 #u82_img {
@@ -2428,10 +2414,9 @@
 #u82_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:180px;
   word-wrap:break-word;
 }
 #u83_img {
@@ -2459,10 +2444,9 @@
 #u83_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:10px;
+  top:7px;
+  width:330px;
   word-wrap:break-word;
 }
 #u84_img {
@@ -2693,8 +2677,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:14px;
 }
@@ -2705,8 +2689,8 @@
   top:498px;
   width:176px;
   height:16px;
-  font-family:'나눔고딕 ExtraBold', '나눔고딕 Regular', '나눔고딕';
-  font-weight:800;
+  font-family:'나눔고딕 Bold', '나눔고딕';
+  font-weight:600;
   font-style:normal;
   font-size:14px;
 }
@@ -2817,6 +2801,57 @@
   position:absolute;
   left:513px;
   top:347px;
+  width:1px;
+  height:1px;
+}
+#u94_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:20px;
+  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'나눔고딕';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+}
+#u94 {
+  border-width:0px;
+  position:absolute;
+  left:339px;
+  top:379px;
+  width:182px;
+  height:20px;
+  font-family:'나눔고딕';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+}
+#u94_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:178px;
+  word-wrap:break-word;
+}
+#u94_ref {
+  border-width:0px;
+  position:absolute;
+  left:513px;
+  top:389px;
   width:1px;
   height:1px;
 }
