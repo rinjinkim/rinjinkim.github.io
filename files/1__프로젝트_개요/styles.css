@@ -144,8 +144,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:20px;
   color:#434343;
@@ -157,8 +157,8 @@
   top:48px;
   width:1162px;
   height:23px;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:20px;
   color:#434343;
@@ -186,7 +186,7 @@
   top:110px;
   width:12px;
   height:19px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
 }
@@ -213,8 +213,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:14px;
 }
@@ -225,8 +225,8 @@
   top:112px;
   width:176px;
   height:16px;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:14px;
 }
@@ -261,7 +261,7 @@
   top:0px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -291,7 +291,7 @@
   top:0px;
   width:950px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -301,9 +301,10 @@
 #u10_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:6px;
-  width:930px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u11_img {
@@ -321,7 +322,7 @@
   top:30px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -351,7 +352,7 @@
   top:30px;
   width:950px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -361,9 +362,10 @@
 #u12_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:6px;
-  width:930px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u13_img {
@@ -381,7 +383,7 @@
   top:230px;
   width:12px;
   height:19px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
 }
@@ -408,8 +410,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:14px;
 }
@@ -420,8 +422,8 @@
   top:232px;
   width:176px;
   height:16px;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:14px;
 }
@@ -439,7 +441,7 @@
   left:30px;
   top:249px;
   width:300px;
-  height:216px;
+  height:180px;
 }
 #u16_img {
   border-width:0px;
@@ -456,7 +458,7 @@
   top:0px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -486,7 +488,7 @@
   top:0px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -516,7 +518,7 @@
   top:0px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -546,7 +548,7 @@
   top:30px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -576,7 +578,7 @@
   top:30px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -606,7 +608,7 @@
   top:30px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -627,7 +629,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:66px;
+  height:30px;
 }
 #u22 {
   border-width:0px;
@@ -635,20 +637,21 @@
   left:0px;
   top:60px;
   width:100px;
-  height:66px;
-  font-family:'나눔고딕';
+  height:30px;
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
-  font-size:12px;
+  font-size:11px;
   text-align:center;
   line-height:18px;
 }
 #u22_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u23_img {
@@ -657,7 +660,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:66px;
+  height:30px;
 }
 #u23 {
   border-width:0px;
@@ -665,8 +668,8 @@
   left:100px;
   top:60px;
   width:100px;
-  height:66px;
-  font-family:'나눔고딕';
+  height:30px;
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -676,9 +679,10 @@
 #u23_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u24_img {
@@ -687,7 +691,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:66px;
+  height:30px;
 }
 #u24 {
   border-width:0px;
@@ -695,8 +699,8 @@
   left:200px;
   top:60px;
   width:100px;
-  height:66px;
-  font-family:'나눔고딕';
+  height:30px;
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -706,9 +710,10 @@
 #u24_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u25_img {
@@ -723,10 +728,10 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:126px;
+  top:90px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -736,9 +741,10 @@
 #u25_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u26_img {
@@ -753,10 +759,10 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:126px;
+  top:90px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -766,9 +772,10 @@
 #u26_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u27_img {
@@ -783,10 +790,10 @@
   border-width:0px;
   position:absolute;
   left:200px;
-  top:126px;
+  top:90px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -796,9 +803,10 @@
 #u27_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u28_img {
@@ -813,10 +821,10 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:156px;
+  top:120px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -844,10 +852,10 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:156px;
+  top:120px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -875,10 +883,10 @@
   border-width:0px;
   position:absolute;
   left:200px;
-  top:156px;
+  top:120px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -906,10 +914,10 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:186px;
+  top:150px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -937,10 +945,10 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:186px;
+  top:150px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -968,10 +976,10 @@
   border-width:0px;
   position:absolute;
   left:200px;
-  top:186px;
+  top:150px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -993,7 +1001,7 @@
   left:330px;
   top:249px;
   width:850px;
-  height:216px;
+  height:180px;
 }
 #u35_img {
   border-width:0px;
@@ -1010,7 +1018,7 @@
   top:0px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1040,7 +1048,7 @@
   top:0px;
   width:650px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1070,7 +1078,7 @@
   top:30px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1100,7 +1108,7 @@
   top:30px;
   width:650px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
@@ -1121,7 +1129,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:66px;
+  height:30px;
 }
 #u39 {
   border-width:0px;
@@ -1129,8 +1137,8 @@
   left:0px;
   top:60px;
   width:200px;
-  height:66px;
-  font-family:'나눔고딕';
+  height:30px;
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1152,7 +1160,7 @@
   left:0px;
   top:0px;
   width:650px;
-  height:66px;
+  height:30px;
 }
 #u40 {
   border-width:0px;
@@ -1160,8 +1168,8 @@
   left:200px;
   top:60px;
   width:650px;
-  height:66px;
-  font-family:'나눔고딕';
+  height:30px;
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
@@ -1171,9 +1179,10 @@
 #u40_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:630px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u41_img {
@@ -1188,10 +1197,10 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:126px;
+  top:90px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1219,10 +1228,10 @@
   border-width:0px;
   position:absolute;
   left:200px;
-  top:126px;
+  top:90px;
   width:650px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
@@ -1232,9 +1241,10 @@
 #u42_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:630px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u43_img {
@@ -1249,10 +1259,10 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:156px;
+  top:120px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1280,10 +1290,10 @@
   border-width:0px;
   position:absolute;
   left:200px;
-  top:156px;
+  top:120px;
   width:650px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
@@ -1311,10 +1321,10 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:186px;
+  top:150px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1342,10 +1352,10 @@
   border-width:0px;
   position:absolute;
   left:200px;
-  top:186px;
+  top:150px;
   width:650px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
@@ -1384,7 +1394,7 @@
   top:0px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1414,7 +1424,7 @@
   top:0px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1444,7 +1454,7 @@
   top:0px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1474,7 +1484,7 @@
   top:0px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1504,7 +1514,7 @@
   top:0px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1534,7 +1544,7 @@
   top:0px;
   width:350px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1564,7 +1574,7 @@
   top:30px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1594,7 +1604,7 @@
   top:30px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1624,7 +1634,7 @@
   top:30px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1654,7 +1664,7 @@
   top:30px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1684,7 +1694,7 @@
   top:30px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1714,7 +1724,7 @@
   top:30px;
   width:350px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1744,7 +1754,7 @@
   top:60px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1754,9 +1764,10 @@
 #u60_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u61_img {
@@ -1774,7 +1785,7 @@
   top:60px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1784,9 +1795,10 @@
 #u61_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u62_img {
@@ -1804,7 +1816,7 @@
   top:60px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1814,9 +1826,10 @@
 #u62_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u63_img {
@@ -1834,7 +1847,7 @@
   top:60px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1844,9 +1857,10 @@
 #u63_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u64_img {
@@ -1864,7 +1878,7 @@
   top:60px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1874,9 +1888,10 @@
 #u64_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u65_img {
@@ -1894,7 +1909,7 @@
   top:60px;
   width:350px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1904,9 +1919,10 @@
 #u65_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:330px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u66_img {
@@ -1924,7 +1940,7 @@
   top:90px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1934,9 +1950,10 @@
 #u66_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u67_img {
@@ -1954,7 +1971,7 @@
   top:90px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1964,9 +1981,10 @@
 #u67_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u68_img {
@@ -1984,7 +2002,7 @@
   top:90px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1994,9 +2012,10 @@
 #u68_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u69_img {
@@ -2014,7 +2033,7 @@
   top:90px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2024,9 +2043,10 @@
 #u69_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u70_img {
@@ -2044,7 +2064,7 @@
   top:90px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2054,9 +2074,10 @@
 #u70_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u71_img {
@@ -2074,7 +2095,7 @@
   top:90px;
   width:350px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2084,9 +2105,10 @@
 #u71_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:330px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u72_img {
@@ -2104,7 +2126,7 @@
   top:120px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2114,9 +2136,10 @@
 #u72_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u73_img {
@@ -2134,7 +2157,7 @@
   top:120px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2144,9 +2167,10 @@
 #u73_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u74_img {
@@ -2164,7 +2188,7 @@
   top:120px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2174,9 +2198,10 @@
 #u74_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u75_img {
@@ -2194,7 +2219,7 @@
   top:120px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2204,9 +2229,10 @@
 #u75_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u76_img {
@@ -2224,7 +2250,7 @@
   top:120px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2234,9 +2260,10 @@
 #u76_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u77_img {
@@ -2254,7 +2281,7 @@
   top:120px;
   width:350px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2264,9 +2291,10 @@
 #u77_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:330px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u78_img {
@@ -2284,7 +2312,7 @@
   top:150px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2294,9 +2322,10 @@
 #u78_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u79_img {
@@ -2314,7 +2343,7 @@
   top:150px;
   width:100px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2324,9 +2353,10 @@
 #u79_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u80_img {
@@ -2344,7 +2374,7 @@
   top:150px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2354,9 +2384,10 @@
 #u80_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u81_img {
@@ -2374,7 +2405,7 @@
   top:150px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2384,9 +2415,10 @@
 #u81_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u82_img {
@@ -2404,7 +2436,7 @@
   top:150px;
   width:200px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2414,9 +2446,10 @@
 #u82_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:180px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u83_img {
@@ -2434,7 +2467,7 @@
   top:150px;
   width:350px;
   height:30px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2444,9 +2477,10 @@
 #u83_text {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:7px;
-  width:330px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u84_img {
@@ -2464,7 +2498,7 @@
   top:180px;
   width:100px;
   height:48px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2495,7 +2529,7 @@
   top:180px;
   width:100px;
   height:48px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2526,7 +2560,7 @@
   top:180px;
   width:200px;
   height:48px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2557,7 +2591,7 @@
   top:180px;
   width:200px;
   height:48px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2588,7 +2622,7 @@
   top:180px;
   width:200px;
   height:48px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2619,7 +2653,7 @@
   top:180px;
   width:350px;
   height:48px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2650,7 +2684,7 @@
   top:496px;
   width:12px;
   height:19px;
-  font-family:'나눔고딕';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
 }
@@ -2677,8 +2711,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:14px;
 }
@@ -2689,8 +2723,8 @@
   top:498px;
   width:176px;
   height:16px;
-  font-family:'나눔고딕 Bold', '나눔고딕';
-  font-weight:600;
+  font-family:'돋움 Bold', '돋움 Regular', '돋움';
+  font-weight:700;
   font-style:normal;
   font-size:14px;
 }
@@ -2701,157 +2735,4 @@
   top:0px;
   width:176px;
   word-wrap:break-word;
-}
-#u92_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:182px;
-  height:20px;
-  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'나눔고딕';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-}
-#u92 {
-  border-width:0px;
-  position:absolute;
-  left:339px;
-  top:316px;
-  width:182px;
-  height:20px;
-  font-family:'나눔고딕';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-}
-#u92_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:178px;
-  word-wrap:break-word;
-}
-#u92_ref {
-  border-width:0px;
-  position:absolute;
-  left:513px;
-  top:326px;
-  width:1px;
-  height:1px;
-}
-#u93_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:182px;
-  height:20px;
-  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'나눔고딕';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-}
-#u93 {
-  border-width:0px;
-  position:absolute;
-  left:339px;
-  top:337px;
-  width:182px;
-  height:20px;
-  font-family:'나눔고딕';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-}
-#u93_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:3px;
-  width:178px;
-  word-wrap:break-word;
-}
-#u93_ref {
-  border-width:0px;
-  position:absolute;
-  left:513px;
-  top:347px;
-  width:1px;
-  height:1px;
-}
-#u94_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:182px;
-  height:20px;
-  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'나눔고딕';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-}
-#u94 {
-  border-width:0px;
-  position:absolute;
-  left:339px;
-  top:379px;
-  width:182px;
-  height:20px;
-  font-family:'나눔고딕';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-}
-#u94_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:178px;
-  word-wrap:break-word;
-}
-#u94_ref {
-  border-width:0px;
-  position:absolute;
-  left:513px;
-  top:389px;
-  width:1px;
-  height:1px;
 }
